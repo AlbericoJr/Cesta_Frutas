@@ -7,6 +7,9 @@ App criado com afinalidade de poder aprender um pouco sobre React Native, utiliz
 | :sparkles: Nome        | **App Cesta**
 | :label: Tecnologias | React Native, React
 
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](orgs-cesta/assets/print.png)
+
 ## Rodando localmente
 
 Clone o projeto
